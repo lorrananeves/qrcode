@@ -1,0 +1,15 @@
+.container {
+  background-color: hsl(0, 0%, 100%); 
+}
+
+.fundo {
+    background-color: hsl(220, 15%, 55%);
+}
+
+.titulo {
+    color: hsl(218, 44%, 22%) ;
+}
+
+.texto {
+  color: hsl(212, 45%, 89%);
+}
