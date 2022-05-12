@@ -1,3 +1,7 @@
+# preview: 
+https://lorrananeves.github.io/qrcode/
+
+
 # Frontend Mentor - QR code component
 
 ![Design preview for the QR code component coding challenge](./design/desktop-preview.jpg)
